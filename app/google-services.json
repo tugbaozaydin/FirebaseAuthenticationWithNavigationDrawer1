@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917399312981",
+    "firebase_url": "https://fir-authenticationwithna-f72ce.firebaseio.com",
+    "project_id": "fir-authenticationwithna-f72ce",
+    "storage_bucket": "fir-authenticationwithna-f72ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917399312981:android:a63a97c074ca99cc",
+        "android_client_info": {
+          "package_name": "gelecegiyazanlar.com.gykfirebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917399312981-gd6m9nj3vantthob8k6o5hpv9niag6hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gelecegiyazanlar.com.gykfirebaseauthentication",
+            "certificate_hash": "929544c0532c8aa5845506898a82e1312afc6a86"
+          }
+        },
+        {
+          "client_id": "917399312981-6rl7h5ov8r31tnsps8bifdj20doif9ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86w8TsmehzmJv3rwT-5dYaFgtVeR9p3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917399312981-6rl7h5ov8r31tnsps8bifdj20doif9ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
